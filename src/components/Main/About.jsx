@@ -1,7 +1,7 @@
 import React from 'react';
 import '../../pages/About/AboutPage.css'
 import { Link } from 'react-router-dom';
-import cv from '../../cv/cv.pdf';
+import cv from '../../cv/Sahil_ADGIPS.pdf';
 import { ButtomGet } from '../ButtomGet/ButtomGet';
 
 /* Multi idioma */
@@ -25,7 +25,7 @@ const About = () => (
                     />
                 </h3>
                 <h4>
-                    My name is Deepak Pandey and I am a full stack developer.
+                    My name is Sahil and I am a full stack | MERN stack developer.
                     
                 </h4>
                 <p>
@@ -33,26 +33,18 @@ const About = () => (
                 </p>
                 <ul>
                     <li>
-                        <p>
-                            <span>
-                                <FormattedMessage
-                                    id='years'
-                                    defaultMessage='Age:'
-                                />
-                            </span>
-                             23
-                        </p>
+                       
                     </li>
                     <li>
                         <p>
                             <span>
                                 Hobbies:{" "}
                             </span>
-                                Traveling, Watching Series and Programming
+                               coding, playing video games, Watching movies and Programming
                         </p>
                     </li>
                     <li>
-                        <p><span>Email:</span> deepakpandeyofficially@gmail.com</p>
+                        <p><span>Email:</span> ansarimdsahil80@gmail.com</p>
                     </li>
                     <li>
                         <p>
@@ -67,7 +59,7 @@ const About = () => (
                     </li>
                 </ul>
                 <div className="mas-info">
-                    <a href={cv} target="_blank" rel="noopener noreferrer" download="cv.pdf" className="btn-codigo buttonDownload">
+                    <a href={cv} target="_blank" rel="noopener noreferrer" download="Sahil_ADGIPS.pdf" className="btn-codigo buttonDownload">
                         <FormattedMessage
                             id='btn-cv'
                             defaultMessage='Download CV'

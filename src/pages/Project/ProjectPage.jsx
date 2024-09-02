@@ -74,7 +74,7 @@ const Project = () => {
           {/* //------------------------------------------------------->movies streaming */}
           <div className="projects__item">
             <a onClick={() => cambiarEstadoModal17(!estadoModal17)}>
-              <img src={proyectsImg(`./proyecto-app-18.png`)} alt="" className="projects__img" />
+              <img src={proyectsImg(`./proyecto-app-07.png`)} alt="" className="projects__img" />
             </a>
           </div>
 
@@ -110,7 +110,7 @@ const Project = () => {
           {/* //------------------------------------------------------->razorpay */}
           <div className="projects__item">
             <a onClick={() => cambiarEstadoModal12(!estadoModal12)}>
-              <img src={proyectsImg(`./proyecto-12.jpg`)} alt="" className="projects__img" />
+              <img src={proyectsImg(`./proyecto-app02.png`)} alt="" className="projects__img" />
             </a>
           </div>
 

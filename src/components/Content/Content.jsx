@@ -22,41 +22,41 @@ const Content = () => (
                     />
                 </p>
                 <h1 data-aos="fade-up" data-aos-delay="800">
-                    <p id = "temp">I am Deepak Pandey</p>
+                    <p id = "temp">I am Sahil</p>
                 </h1>
                 <p data-aos="fade-up" data-aos-delay="1000">
                     <FormattedMessage
                         id='rol'
-                        defaultMessage='Full-stack developer'
+                        defaultMessage='Full-stack | MERN stack developer'
                     />
                 </p>
 
                 <div className="redes-sociales">
-                    <a href="https://www.linkedin.com/in/deepak-pandey-193177324/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1200"><i className="fab fa-linkedin"></i></a>
-                    <a href="https://github.com/deepak-pandey1" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1400"><i className="fab fa-github"></i></a>
-                    <a href="https://www.instagram.com/the_deepak_pandey/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1600"><i className="fab fa-instagram"></i></a>
-                    <a href="https://api.whatsapp.com/send?phone=919667750250" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1800"><i className="fab fa-whatsapp"></i></a>
+                    <a href="https://www.linkedin.com/in/sahil-ansari-8b41041b8/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1200"><i className="fab fa-linkedin"></i></a>
+                    <a href="https://github.com/sahil-562" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1400"><i className="fab fa-github"></i></a>
+                    <a href="https://www.instagram.com/6023.sahil/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1600"><i className="fab fa-instagram"></i></a>
+                    <a href="https://api.whatsapp.com/send?phone=917678652133" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1800"><i className="fab fa-whatsapp"></i></a>
                 </div>
                 <div className="wrapper">
-                    <a className="button" href="https://www.linkedin.com/in/deepak-pandey-193177324/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1200">
+                    <a className="button" href="https://www.linkedin.com/in/sahil-ansari-8b41041b8/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1200">
                         <div className="icon">
                             <i className="fab fa-linkedin"></i>
                         </div>
                         <span>Linkedin</span>
                     </a>
-                    <a className="button" href="https://github.com/deepak-pandey1" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1400">
+                    <a className="button" href="https://github.com/sahil-562" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1400">
                         <div className="icon">
                             <i className="fab fa-github"></i>
                         </div>
                         <span>Github</span>
                     </a>
-                    <a className="button" href="https://www.instagram.com/the_deepak_pandey/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1600">
+                    <a className="button" href="https://www.instagram.com/6023.sahil/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1600">
                         <div className="icon">
                             <i className="fab fa-instagram"></i>
                         </div>
                         <span>Instagram</span>
                     </a>
-                    <a className="button" href="https://api.whatsapp.com/send?phone=919667750250" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1800">
+                    <a className="button" href="https://api.whatsapp.com/send?phone=917678652133" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1800">
                         <div className="icon">
                             <i className="fab fa-whatsapp"></i>
                         </div>

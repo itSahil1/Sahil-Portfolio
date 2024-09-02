@@ -53,7 +53,7 @@ const Project = () => {
                 >
                     <SwiperSlide className='caja'>
                         <img
-                            src={proyectImg(`./proyecto-14.jpg`)}
+                            src={proyectImg(`./proyecto-app-04.png`)}
                             alt='Live Weather'
 
                         />
@@ -68,99 +68,104 @@ const Project = () => {
                                 <span> -</span> Bootstrap
                                 <span> -</span> JavaScript
                             </p>
-                            <a href="https://deepak-pandey1.github.io/WeatherView/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/deepak-pandey1/WeatherView" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            <a href=" https://sahil-562.github.io/WeatherApp/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href="https://github.com/sahil-562/WeatherApp.git" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
                     </SwiperSlide>
 
                     <SwiperSlide className='caja'>
                         <img
-                            src={proyectImg(`./proyecto-app-18.png`)}
-                            alt='Movies Streaming'
+                            src={proyectImg(`./proyecto-app-01.png`)}
+                            alt='Password Generation'
 
                         />
                         <div className="content">
-                            <h3>Movies Streaming</h3>
+                            <h3>Password Generator</h3>
                             <p>
-                                Display Trending Movies with Detailed Information
+                            Generating Secure Passwords with Customizable Options for Length and Complexity
                             </p>
                             <p className="tecnologias">
                                 HTML
                                 <span> -</span> CSS
-                                <span> -</span> Bootstrap
                                 <span> -</span> Tailwind
                                 <span> -</span> JavaScript
                                 <span> -</span> ReactJS
                                 <span> -</span> React Router
                             </p>
-                            <a href="https://deepak-pandey1.github.io/Movies-Streaming/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/deepak-pandey1/Movies-Streaming" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            <a href="https://sahil-562.github.io/Password-generation-App/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href="https://github.com/sahil-562/Password-generation-App.git" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
                     </SwiperSlide>
 
                     <SwiperSlide className='caja'>
                         <img
-                            src={proyectImg(`./proyecto-app-17.png`)}
-                            alt='Password Generators'
+                            src={proyectImg(`./proyecto-app03.png`)}
+                            alt=''
 
                         />
                         <div className="content">
-                            <h3>Password Generators</h3>
+                            <h3>ECOMZY eCommerce based WebApplication</h3>
                             <p>
-                                Generating Secure Passwords with Customizable Options for Length and Complexity
+                             ECOMZY, an eCommerce web application with intuitive user interfaces and seamless navigation
                             </p>
                             <p className="tecnologias">
                                 HTML
                                 <span> -</span> CSS
                                 <span> -</span> Tailwind
                                 <span> -</span> JavaScript
+                                <span> -</span> React.js
+                                <span> -</span> Redux Toolkit
+                                <span> -</span>React-Router
                             </p>
-                            <a href="https://deepak-pandey1.github.io/Password-Generator/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/deepak-pandey1/Password-Generator" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            <a href="https://peppy-lolly-46fea3.netlify.app/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href="https://github.com/sahil-562/ECOMZY-eCommerce-website.git" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
                         <img
-                            src={proyectImg(`./proyecto-7.jpg`)}
-                            alt='Tic Tac Toe'
+                            src={proyectImg(`./proyecto-app-05.png`)}
+                            alt='Sharemodal App'
                         />
                         <div className="content">
-                            <h3>Tic Tac Toe</h3>
+                            <h3>Sharemodal App</h3>
                             <p>
-                                Game with Interactive UI and Real-Time Gameplay Functionality
+                             Sharemodal, an app using ReactJS, focused on creating a dynamic and responsive user interface
                             </p>
                             <p className="tecnologias">
                                 HTML5
                                 <span> -</span> CSS
                                 <span> -</span> JavaScript
+                                <span> -</span>React.js
+                                <span> -</span> TailwindCSS
                             </p>
-                            <a href="https://deepak-pandey1.github.io/Tic-Tac-Toe/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/deepak-pandey1/Tic-Tac-Toe" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            <a href="https://github.com/sahil-562/ShareMondal.git" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href=" https://sahil-562.github.io/ShareMondal/" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
                         <img
-                            src={proyectImg(`./proyecto-6.jpg`)}
-                            alt='WoodColor Creations'
+                            src={proyectImg(`./proyecto-app-06.png`)}
+                            alt='Pepsi landing Page 3D'
                         />
                         <div className="content">
-                            <h3>WoodColor Creations</h3>
+                            <h3>Pepsi landing Page 3D</h3>
                             <p>
-                                Selecting and Showcasing Wooden Chair Colors and Designs
+                             3D Pepsi landing page, showcasing interactive and visually engaging design elements
                             </p>
                             <p className="tecnologias">
-                                HTML
+                                HTML5
                                 <span> -</span> CSS
-                                <span> -</span> Bootstrap
+                                <span> -</span> TailwindCSS
                                 <span> -</span> JavaScript
+                                <span> -</span> npm packages
                             </p>
-                            <a href="https://deepak-pandey1.github.io/WoodColor-Creations/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/deepak-pandey1/WoodColor-Creations" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            <a href="https://sahil-562.github.io/Pepsi-landing-page/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href="https://github.com/sahil-562/Pepsi-landing-page.git" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
                         <img
-                            src={proyectImg(`./proyecto-12.jpg`)}
+                            src={proyectImg(`./proyecto-app02.png`)}
                             alt='proyectos'
                         />
                         <div className="content">
@@ -174,10 +179,136 @@ const Project = () => {
                                 <span> -</span> Tailwind
                                 <span> -</span> JavaScript
                             </p>
-                            <a href="https://deepak-pandey1.github.io/Razorpay-Clone/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/deepak-pandey1/Razorpay-Clone" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            <a href="https://transcendent-malasada-a5a12a.netlify.app" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href="https://github.com/sahil-562/RazorPayClone.git" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
                     </SwiperSlide>
+                    <SwiperSlide className='caja'>
+                        <img
+                            src={proyectImg(`./proyecto-app-07.png`)}
+                            alt='Movies Streaming webApplication'
+                        />
+                        <div className="content">
+                            <h3>Cinema LiveStreaming WebApplication</h3>
+                            <p>
+                            Developed a Cinema Live Streaming web application, enabling real-time streaming with a user-friendly interface
+                            </p>
+                            <p className="tecnologias">
+                                HTML5
+                                <span> -</span> CSS
+                                <span> -</span>Bootstrap
+                                <span> -</span>TailwindCSS
+                                <span> -</span> JavaScript
+                                <span> -</span> React.js
+                                <span> -</span>context API
+                                <span> -</span> React-Router
+                                <span> -</span> Redux
+                               
+                            </p>
+                            <a href="https://cinemawebapplication.netlify.app" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href="https://github.com/sahil-562/Cinema_LiveStreaming_WebApplication.git" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                        </div>
+                    </SwiperSlide>
+
+                    <SwiperSlide className='caja'>
+                        <img
+                            src={proyectImg(`./proyecto-app.png`)}
+                            alt='Real Live Dashboard'
+
+                        />
+                        <div className="content">
+                            <h3>Real Live Dashboard App</h3>
+                            <p>
+                            Developed a Real Live Dashboard App, providing real-time data visualization and analytics
+                            </p>
+                            <p className="tecnologias">
+                                HTML5
+                                <span> -</span> CSS
+                                <span> -</span> Bootstrap
+                                <span> -</span> Tailwind
+                                <span> -</span> JavaScript
+                                <span> -</span> ReactJS
+                                <span> -</span> React Router
+                                <span> -</span> ApexChart.js
+
+                            </p>
+                            <a href="https://reallivedashboard.netlify.app/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href="https://github.com/sahil-562/RealDashboard.git" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                        </div>
+                    </SwiperSlide>
+
+                    <SwiperSlide className='caja'>
+                        <img
+                            src={proyectImg(`./proyecto-11.png`)}
+                            alt=' Random Meme Generation application'
+
+                        />
+                        <div className="content">
+                            <h3>Random Meme Generation application</h3>
+                            <p>
+                                Display Trending Memes 
+                            </p>
+                            <p className="tecnologias">
+                                HTML
+                                <span> -</span> CSS
+                                <span> -</span> API's
+                                <span> -</span> Tailwind
+                                <span> -</span> JavaScript
+                                <span> -</span> ReactJS
+                                <span> -</span> React Router
+                            </p>
+                            <a href="https://github.com/itSahil1/memGfg.git" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href="https://itsahil1.github.io/memGfg/" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                        </div>
+                    </SwiperSlide>
+                     
+                    <SwiperSlide className='caja'>
+                        <img
+                            src={proyectImg(`./proyecto-10.png`)}
+                            alt=' counter app'
+
+                        />
+                        <div className="content">
+                            <h3>counter game based web application</h3>
+                            <p>
+                                Display counter game
+                            </p>
+                            <p className="tecnologias">
+                                HTML
+                                <span> -</span> CSS
+                                <span> -</span> Tailwind
+                                <span> -</span> JavaScript
+                                <span> -</span> ReactJS
+                                <span> -</span> React Router
+                            </p>
+                            <a href="https://github.com/itSahil1/counterapp.git" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href="https://itsahil1.github.io/counterapp/" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                        </div>
+                    </SwiperSlide>
+                    <SwiperSlide className='caja'>
+                        <img
+                            src={proyectImg(`./proyecto-9.png`)}
+                            alt=' Tic-Tac-Toe game'
+
+                        />
+                        <div className="content">
+                            <h3>Tic-Tac-Toe game</h3>
+                            <p>
+                            Game with Interactive UI and Real-Time Gameplay Functionality
+                            </p>
+                            <p className="tecnologias">
+                                HTML
+                                <span> -</span> CSS
+                                <span> -</span> Tailwind
+                                <span> -</span> JavaScript
+                               
+
+                            </p>
+                            <a href="https://github.com/itSahil1/TicTacToe.git" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href=" https://itsahil1.github.io/TicTacToe/" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                        </div>
+                    </SwiperSlide>
+
                     {/* <SwiperSlide className='caja'>
                         <img
                             src={proyectImg(`./proyecto-5.jpg`)}

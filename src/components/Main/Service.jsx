@@ -49,14 +49,15 @@ const Service = () => (
                 <i className="fas fa-chart-line"></i>
                 <h3>
                     <FormattedMessage
-                        id='marketing'
-                        defaultMessage='Digital marketing'
+                        id='Marketing'
+                        defaultMessage='Marketing'
+            
                     />
                 </h3>
                 <p>
                     <FormattedMessage
                         id='marketing-info'
-                        defaultMessage='Complete maintenance of web pages to detect and solve errors, update content whether text, photos, web design elements, add new functions, etc.'
+                        defaultMessage='Developed targeted and engaging marketing strategies for web and mobile platforms, optimizing campaigns to boost brand visibility and drive customer engagement across digital channels.'
                     />
                 </p>
             </div>
@@ -75,7 +76,7 @@ const Service = () => (
                     />
                 </p>
             </div>
-            {/* <div className="columns" data-aos="fade-up" data-aos-delay="600">
+            { <div className="columns" data-aos="fade-up" data-aos-delay="600">
                 <i className="fas fa-search"></i>
                 <h3>
                     <FormattedMessage
@@ -89,8 +90,9 @@ const Service = () => (
                         defaultMessage='Web positioning through SEO, so your website appears in the main search results according to your business, both in Google, Bing, or other internet search engines'
                     />
                 </p>
-            </div> */}
-            <div className="columns" data-aos="fade-up" data-aos-delay="700">
+            </div> }
+
+           {/* <div className="columns" data-aos="fade-up" data-aos-delay="700">
                 <i className="fas fa-tachometer-alt"></i>
                 <h3>
                     <FormattedMessage
@@ -104,8 +106,8 @@ const Service = () => (
                         defaultMessage='Complete optimization of your web page, improving loading speed, using optimized images, a good URL, to give a better experience to users who visit the website'
                     />
                 </p>
-            </div>
-        </div>
+            </div> */}
+        </div>  
         <div className='portafolio-btn'>
             <Link to="/service">
                 <ButtomGet/>

@@ -38,7 +38,7 @@ const Contact = () => (
         </h3>
 
         <div className="icons">
-            <a href="mailto:deepakpandeyofficially@gmail.com" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
+            <a href="mailto:ansarimdsahil80@gmail.com" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
                 <div className="layer">
                     <span></span>
                     <span></span>
@@ -50,7 +50,7 @@ const Contact = () => (
                     Gmail
                 </div>
             </a>
-            <a href="https://api.whatsapp.com/send?phone=919667750250" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
+            <a href="https://api.whatsapp.com/send?phone=7678652133" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
                 <div className="layer">
                     <span></span>
                     <span></span>
@@ -62,7 +62,7 @@ const Contact = () => (
                     Whatsapp
                 </div>
             </a>
-            <a href="https://www.instagram.com/the_deepak_pandey/" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
+            <a href="https://www.instagram.com/6023.sahil/" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
                 <div className="layer">
                     <span></span>
                     <span></span>
@@ -86,7 +86,7 @@ const Contact = () => (
                     telegram
                 </div>
             </a>
-            <a href="https://www.linkedin.com/in/deepak-pandey-193177324/" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
+            <a href="https://www.linkedin.com/in/sahil-ansari-8b41041b8/" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
                 <div className="layer">
                     <span></span>
                     <span></span>
@@ -98,7 +98,7 @@ const Contact = () => (
                     Linkedin
                 </div>
             </a>
-            <a href="https://github.com/deepak-pandey1" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
+            <a href="https://github.com/sahil-562" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
                 <div className="layer">
                     <span></span>
                     <span></span>

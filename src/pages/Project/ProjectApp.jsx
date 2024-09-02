@@ -84,7 +84,7 @@ function ProjectApp() {
                     <div className="projects__item">
                     {/* password generator */}
                         <a onClick={() => cambiarEstadoModal17(!estadoModal17)}>
-                            <img src={proyectsImgApp(`./proyecto-app-17.png`)} alt="" className="projects__img" />
+                            <img src={proyectsImgApp(`./proyecto-app03.png`)} alt="" className="projects__img" />
                         </a>
                     </div>
 
@@ -104,7 +104,7 @@ function ProjectApp() {
 
                     <div className="projects__item">
                         <a onClick={() => cambiarEstadoModal14(!estadoModal14)}>
-                            <img src={proyectsImgApp(`./proyecto-app-14.jpg`)} alt="" className="projects__img" />
+                            <img src={proyectsImgApp(`./proyecto-app.png`)} alt="" className="projects__img" />
                         </a>
                     </div>
 

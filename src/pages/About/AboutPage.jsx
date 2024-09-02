@@ -6,13 +6,13 @@ import HeaderPage from '../../components/Header/HeaderPage';
 import Footer from '../../components/Footer/Footer';
 import ParticleBackground from "../../components/ParticlesBg/ParticleBackground";
 import ScrollToTop from '../../components/ScrollToTop/ScrollToTop';
-import cv from '../../cv/cv.pdf';
+import cv from '../../cv/Sahil_ADGIPS.pdf';
 
 /* Multi idioma */
 import { FormattedMessage } from 'react-intl';
 
 /* Img */
-import imgabout from '../../img/home.jpg';
+import imgabout from '../../img/sahil.jpg';
 
 const About = () => {
 
@@ -40,7 +40,7 @@ const About = () => {
         <section className="sobre-mi-seccion" id="sobre-mi">
           <div className="sobre-mi-container">
             <div className="sobre-mi-img-container" id = "circle">
-              <img src={imgabout} alt="Deepak Pandey" className="sobre-mi-img" />
+              <img src={imgabout} alt="Sahil" className="sobre-mi-img" />
               
               <a href={cv} target="_blank" rel="noopener noreferrer" download="cv.pdf" className="btn-codigo cv buttonDownload">
                   <FormattedMessage
@@ -51,7 +51,7 @@ const About = () => {
             </div>
             <div className="sobre-mi-info">
               <p>
-                 "Hi, I'm Deepak Pandey, Aspiring full-stack developer with a solid foundation in frontend technologies, currently pursuing a degree at BPIT, IP University. I have successfully completed multiple projects that demonstrate my ability to design and develop responsive, user-friendly web applications. With hands-on experience in HTML, CSS, JavaScript, and React, I am skilled at turning ideas into functional digital solutions. My passion for coding and continuous learning drives me to stay updated with the latest industry trends."
+                 "Hi, I'm Sahil, Aspiring full-stack | MERN stack developer with a solid foundation in Front-End & Back-End technologies, currently pursuing a degree at ADGIPS, GGSIPU. I have successfully completed multiple projects that demonstrate my ability to design and develop responsive, user-friendly web applications. With hands-on experience in HTML, CSS, JavaScript, React, NodeJs, ExpressJs and MongoDB. I am skilled at turning ideas into functional digital solutions. My passion for coding and continuous learning drives me to stay updated with the latest industry trends."
               </p>
 
               <div className="hide parrafo-active">
@@ -116,7 +116,7 @@ const About = () => {
                 <p className="skill-info">
                   <FormattedMessage
                     id='about-skills-4'
-                    defaultMessage='One year using this preprocessor in the professional field, I include it in many of my projects since it allows me a better structured code.'
+                    defaultMessage='More than a year using this preprocessor in the professional field, I include it in many of my projects since it allows me a better structured code.'
                   />
                 </p>
               </div>
