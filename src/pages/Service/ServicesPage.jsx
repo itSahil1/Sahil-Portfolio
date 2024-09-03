@@ -89,7 +89,7 @@ const Services = () => {
                     />
                 </p>
             </div>
-            {/* <div className="columns" data-aos="fade-up" data-aos-delay="600">
+             <div className="columns" data-aos="fade-up" data-aos-delay="600">
                 <i className="fas fa-search"></i>
                 <h3>
                     <FormattedMessage
@@ -103,8 +103,9 @@ const Services = () => {
                         defaultMessage='Web positioning through SEO, so your website appears in the main search results according to your business, both in Google, Bing, or other internet search engines'
                     />
                 </p>
-            </div> */}
-            <div className="columns" data-aos="fade-up" data-aos-delay="700">
+            </div> 
+
+           {/* <div className="columns" data-aos="fade-up" data-aos-delay="700">
                 <i className="fas fa-tachometer-alt"></i>
                 <h3>
                     <FormattedMessage
@@ -118,7 +119,7 @@ const Services = () => {
                         defaultMessage='Complete optimization of your web page, improving loading speed, using optimized images, a good URL, to give a better experience to users who visit the website'
                     />
                 </p>
-            </div>
+            </div> */}
         </div>
     </section>
 

@@ -12,7 +12,7 @@ import cv from '../../cv/Sahil_ADGIPS.pdf';
 import { FormattedMessage } from 'react-intl';
 
 /* Img */
-import imgabout from '../../img/sahil.jpg';
+import imgabout from '../../img/profilepic.jpg';
 
 const About = () => {
 

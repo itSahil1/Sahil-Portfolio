@@ -98,16 +98,16 @@ const ProjectGame = () => {
             >
                 <div className="content-modal">
                     <div className="pw-content">
-                        <div className="eins-modal-preview"><img src={proyectsImg(`./proyecto-7.jpg`)} alt="" /></div>
+                        <div className="eins-modal-preview"><img src={proyectsImg(`./proyecto-10.png`)} alt="" /></div>
                         <div className="eins-modal-text">
                             <p>
-                                Tic Tac Toe
+                            Counter Game based web-Application
                             </p>
                             <p>
-                                Allowing Two Players to Compete in Real-time, with Automatic Detection of Game Outcomes (win, lose, draw).
+                            A web application where players compete by counting numbers under specific rules, with the goal of reaching a target first.
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://deepak-pandey1.github.io/Tic-Tac-Toe/" target="_blank">https://ticTacToe.co</a>
+                                <span>Link:</span> <a href="https://itsahil1.github.io/counterapp/" target="_blank">https://itsahil1.github.io/counterapp/</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -120,6 +120,10 @@ const ProjectGame = () => {
                                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
                                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
                                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
+                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" />
+          
+          
                                 </div>
                             </div>
                         </div>
@@ -135,17 +139,17 @@ const ProjectGame = () => {
             >
                 <div className="content-modal">
                     <div className="pw-content">
-                        <div className="eins-modal-preview"><img src={proyectsImg(`./proyecto-6.jpg`)} alt="" /></div>
+                        <div className="eins-modal-preview"><img src={proyectsImg(`./proyecto-9.png`)} alt="" /></div>
                         <div className="eins-modal-text">
                             <p>
-                                WoodColor Creations
+                               Tic-Tac-Toe Game
                             </p>
                             <p>
-                                Allowing to Play game with CSS by Simple Clicking Button
+                            Game with Interactive UI and Real-Time Gameplay Functionality.
                             </p>
 
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://deepak-pandey1.github.io/WoodColor-Creations/" target="_blank">https://https://WoodColorGame.co</a>
+                                <span>Link:</span> <a href="https://itsahil1.github.io/TicTacToe/" target="_blank">https://itsahil1.github.io/TicTacToe/</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -158,6 +162,10 @@ const ProjectGame = () => {
                                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
                                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
                                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
+                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" />
+          
+          
                                 </div>
                             </div>
                         </div>

@@ -33,7 +33,7 @@ const Content = () => (
 
                 <div className="redes-sociales">
                     <a href="https://www.linkedin.com/in/sahil-ansari-8b41041b8/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1200"><i className="fab fa-linkedin"></i></a>
-                    <a href="https://github.com/sahil-562" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1400"><i className="fab fa-github"></i></a>
+                    <a href="https://github.com/itSahil1" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1400"><i className="fab fa-github"></i></a>
                     <a href="https://www.instagram.com/6023.sahil/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1600"><i className="fab fa-instagram"></i></a>
                     <a href="https://api.whatsapp.com/send?phone=917678652133" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1800"><i className="fab fa-whatsapp"></i></a>
                 </div>
@@ -44,7 +44,7 @@ const Content = () => (
                         </div>
                         <span>Linkedin</span>
                     </a>
-                    <a className="button" href="https://github.com/sahil-562" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1400">
+                    <a className="button" href="https://github.com/itSahil1" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1400">
                         <div className="icon">
                             <i className="fab fa-github"></i>
                         </div>

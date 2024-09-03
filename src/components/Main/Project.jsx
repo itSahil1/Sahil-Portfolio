@@ -60,7 +60,7 @@ const Project = () => {
                         <div className="content">
                             <h3>Live Weather</h3>
                             <p>
-                                Weather Details for any Location, including the User's Current Location
+                                Weather Details for any Location, including the User's Current Location.
                             </p>
                             <p className="tecnologias">
                                 HTML
@@ -68,8 +68,8 @@ const Project = () => {
                                 <span> -</span> Bootstrap
                                 <span> -</span> JavaScript
                             </p>
-                            <a href=" https://sahil-562.github.io/WeatherApp/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/sahil-562/WeatherApp.git" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            <a href="https://itsahil1.github.io/WeatherApp/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href="https://github.com/itSahil1/WeatherApp.git" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
                     </SwiperSlide>
 
@@ -82,7 +82,7 @@ const Project = () => {
                         <div className="content">
                             <h3>Password Generator</h3>
                             <p>
-                            Generating Secure Passwords with Customizable Options for Length and Complexity
+                            Generating Secure Passwords with Customizable Options for Length and Complexity.
                             </p>
                             <p className="tecnologias">
                                 HTML
@@ -92,8 +92,8 @@ const Project = () => {
                                 <span> -</span> ReactJS
                                 <span> -</span> React Router
                             </p>
-                            <a href="https://sahil-562.github.io/Password-generation-App/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/sahil-562/Password-generation-App.git" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            <a href="https://itsahil1.github.io/Password-generation-App/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href="https://github.com/itSahil1/Password-generation-App.git" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
                     </SwiperSlide>
 
@@ -106,7 +106,7 @@ const Project = () => {
                         <div className="content">
                             <h3>ECOMZY eCommerce based WebApplication</h3>
                             <p>
-                             ECOMZY, an eCommerce web application with intuitive user interfaces and seamless navigation
+                             ECOMZY, an eCommerce web application with intuitive user interfaces and seamless navigation.
                             </p>
                             <p className="tecnologias">
                                 HTML
@@ -129,7 +129,7 @@ const Project = () => {
                         <div className="content">
                             <h3>Sharemodal App</h3>
                             <p>
-                             Sharemodal, an app using ReactJS, focused on creating a dynamic and responsive user interface
+                             Sharemodal, an app using ReactJS, focused on creating a dynamic and responsive user interface.
                             </p>
                             <p className="tecnologias">
                                 HTML5
@@ -138,8 +138,8 @@ const Project = () => {
                                 <span> -</span>React.js
                                 <span> -</span> TailwindCSS
                             </p>
-                            <a href="https://github.com/sahil-562/ShareMondal.git" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href=" https://sahil-562.github.io/ShareMondal/" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            <a href="https://itsahil1.github.io/ShareMondal/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href="https://github.com/itSahil1/ShareMondal.git" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
@@ -150,7 +150,7 @@ const Project = () => {
                         <div className="content">
                             <h3>Pepsi landing Page 3D</h3>
                             <p>
-                             3D Pepsi landing page, showcasing interactive and visually engaging design elements
+                             3D Pepsi landing page, showcasing interactive and visually engaging design elements.
                             </p>
                             <p className="tecnologias">
                                 HTML5
@@ -159,8 +159,8 @@ const Project = () => {
                                 <span> -</span> JavaScript
                                 <span> -</span> npm packages
                             </p>
-                            <a href="https://sahil-562.github.io/Pepsi-landing-page/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/sahil-562/Pepsi-landing-page.git" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            <a href="https://itsahil1.github.io/Pepsi-landing-page/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href="https://github.com/itSahil1/Pepsi-landing-page.git" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
@@ -171,7 +171,7 @@ const Project = () => {
                         <div className="content">
                             <h3>Razorpay</h3>
                             <p>
-                                Razorpay(Clone) Full Fledge website
+                                Razorpay(Clone) Full Fledge website.
                             </p>
                             <p className="tecnologias">
                                 HTML5
@@ -191,7 +191,7 @@ const Project = () => {
                         <div className="content">
                             <h3>Cinema LiveStreaming WebApplication</h3>
                             <p>
-                            Developed a Cinema Live Streaming web application, enabling real-time streaming with a user-friendly interface
+                            Developed a Cinema Live Streaming web application, enabling real-time streaming with a user-friendly interface.
                             </p>
                             <p className="tecnologias">
                                 HTML5
@@ -219,7 +219,7 @@ const Project = () => {
                         <div className="content">
                             <h3>Real Live Dashboard App</h3>
                             <p>
-                            Developed a Real Live Dashboard App, providing real-time data visualization and analytics
+                            Developed a Real Live Dashboard App, providing real-time data visualization and analytics.
                             </p>
                             <p className="tecnologias">
                                 HTML5
@@ -246,7 +246,8 @@ const Project = () => {
                         <div className="content">
                             <h3>Random Meme Generation application</h3>
                             <p>
-                                Display Trending Memes 
+                                
+A web application that generates and displays random memes at the click of a button.
                             </p>
                             <p className="tecnologias">
                                 HTML
@@ -257,8 +258,8 @@ const Project = () => {
                                 <span> -</span> ReactJS
                                 <span> -</span> React Router
                             </p>
-                            <a href="https://github.com/itSahil1/memGfg.git" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://itsahil1.github.io/memGfg/" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            <a href="https://itsahil1.github.io/memGfg/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href="https://github.com/itSahil1/memGfg.git" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
                     </SwiperSlide>
                      
@@ -269,9 +270,9 @@ const Project = () => {
 
                         />
                         <div className="content">
-                            <h3>counter game based web application</h3>
+                            <h3> Counter Game based web-Application</h3>
                             <p>
-                                Display counter game
+                            A web application where players compete by counting numbers under specific rules, with the goal of reaching a target first.
                             </p>
                             <p className="tecnologias">
                                 HTML
@@ -280,9 +281,9 @@ const Project = () => {
                                 <span> -</span> JavaScript
                                 <span> -</span> ReactJS
                                 <span> -</span> React Router
-                            </p>
-                            <a href="https://github.com/itSahil1/counterapp.git" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://itsahil1.github.io/counterapp/" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            </p>  
+                            <a href="https://itsahil1.github.io/counterapp/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href="https://github.com/itSahil1/counterapp.git" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
@@ -294,18 +295,20 @@ const Project = () => {
                         <div className="content">
                             <h3>Tic-Tac-Toe game</h3>
                             <p>
-                            Game with Interactive UI and Real-Time Gameplay Functionality
+                            Game with Interactive UI and Real-Time Gameplay Functionality.
                             </p>
                             <p className="tecnologias">
                                 HTML
                                 <span> -</span> CSS
                                 <span> -</span> Tailwind
                                 <span> -</span> JavaScript
+                                <span> -</span> React.Js
+                                <span> -</span> React Router
                                
 
                             </p>
-                            <a href="https://github.com/itSahil1/TicTacToe.git" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href=" https://itsahil1.github.io/TicTacToe/" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            <a href="https://itsahil1.github.io/TicTacToe/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
+                            <a href="https://github.com/itSahil1/TicTacToe.git" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
                     </SwiperSlide>
 

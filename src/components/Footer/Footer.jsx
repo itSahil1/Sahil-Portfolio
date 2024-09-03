@@ -20,8 +20,8 @@ const Footer = () =>{
                 </div>
                 <div className="redes-sociales">
                     <a href="https://www.linkedin.com/in/sahil-ansari-8b41041b8/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin"></i></a>
-                    <a href="https://github.com/sahil-562" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a>
-                    <a href="https://www.instagram.com/6023.sahil/" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram"></i></a>
+                    <a href="https://github.com/itSahil1" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a>
+                    <a href="https://www.instagram.com/6023.sahil/?next=%2F" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram"></i></a>
                     <a href="https://api.whatsapp.com/send?phone=917678652133" target="_blank" rel="noopener noreferrer"><i className="fab fa-whatsapp"></i></a>
                 </div>
             </div>

@@ -1,6 +1,6 @@
 {
   "name": "portfolio-sahil",
-  "homepage": "https://itSahil1.github.io/portfolio-sahil",
+  "homepage": "https://itSahil1.github.io/Sahil-Portfolio",
   "version": "1.5.0",
   "private": true,
   "dependencies": {
@@ -21,12 +21,12 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [

@@ -232,17 +232,17 @@ function ProjectApp() {
             >
                 <div className="content-modal">
                     <div className="pw-content">
-                        <div className="eins-modal-preview"><img src={proyectsImgApp(`./proyecto-app-17-com.png`)} alt="" /></div>
+                        <div className="eins-modal-preview"><img src={proyectsImgApp(`./proyecto-app03.png`)} alt="" /></div>
                         <div className="eins-modal-text">
                             <p>
-                                Password Generator
+                            ECOMZY eCommerce based WebApplication
                             </p>
                             <p>
-                                Developed a secure password generator using JavaScript, enabling users to create strong, randomized passwords with customizable criteria, enhancing online security and data protection.
+                            ECOMZY, an eCommerce web application with intuitive user interfaces and seamless navigation.
                                 
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://deepak-pandey1.github.io/Password-Generator/" target="_blank">https://passwordGenerator.app/</a>
+                                <span>Link:</span> <a href="https://peppy-lolly-46fea3.netlify.app" target="_blank">https://peppy-lolly-46fea3.netlify.app</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -255,9 +255,12 @@ function ProjectApp() {
                                 
                                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
                                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-
+                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" /> 
+                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
+                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+           
+                                  
                                 </div>
                             </div>
                         </div>
@@ -350,17 +353,17 @@ function ProjectApp() {
             >
                 <div className="content-modal">
                     <div className="pw-content">
-                        <div className="eins-modal-preview"><img src={proyectsImgApp(`./proyecto-app-14-com.png`)} alt="" /></div>
+                        <div className="eins-modal-preview"><img src={proyectsImgApp(`./proyecto-app.png`)} alt="" /></div>
                         <div className="eins-modal-text">
                             <p>
-                                Live Weather
+                              Real Live Dashboard App
                             </p>
                             <p>
-                               Developed a Dynamic Weather view website that provides real-time weather updates for any location. Users can search for cities to see current conditions, including temperature, humidity, etc.
+                            Developed a Real Live Dashboard App, providing real-time data visualization and analytics.
                                 
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://deepak-pandey1.github.io/WeatherView/" target="_blank">https://weatherView.com</a>
+                                <span>Link:</span> <a href="https://reallivedashboard.netlify.app" target="_blank">https://reallivedashboard.netlify.app</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -372,9 +375,13 @@ function ProjectApp() {
                                 <div className="eins-modal-tec">
                                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
                                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
+                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />  
+                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
+                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" />
+           
                                 </div>
-                            </div>
+                            </div>      
                         </div>
                     </div>
                 </div>

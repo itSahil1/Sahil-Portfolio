@@ -38,7 +38,7 @@ const Contact = () => (
         </h3>
 
         <div className="icons">
-            <a href="mailto:ansarimdsahil80@gmail.com" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
+         <a href="mailto:ansarimdsahil80@gmail.com"  rel="noopener noreferrer" data-aos="zoom-in">
                 <div className="layer">
                     <span></span>
                     <span></span>
@@ -50,18 +50,7 @@ const Contact = () => (
                     Gmail
                 </div>
             </a>
-            <a href="https://api.whatsapp.com/send?phone=7678652133" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
-                <div className="layer">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <span className="fab fa-whatsapp"></span>
-                </div>
-                <div className="text">
-                    Whatsapp
-                </div>
-            </a>
+
             <a href="https://www.instagram.com/6023.sahil/" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
                 <div className="layer">
                     <span></span>
@@ -98,7 +87,7 @@ const Contact = () => (
                     Linkedin
                 </div>
             </a>
-            <a href="https://github.com/sahil-562" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
+            <a href="https://github.com/itSahil1" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
                 <div className="layer">
                     <span></span>
                     <span></span>
