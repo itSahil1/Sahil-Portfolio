@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sahil-Portfolio/static/css/main.93190fa9.css",
-    "main.js": "/Sahil-Portfolio/static/js/main.cd276b7f.js",
+    "main.js": "/Sahil-Portfolio/static/js/main.589f0ae7.js",
     "static/js/453.3bc21d00.chunk.js": "/Sahil-Portfolio/static/js/453.3bc21d00.chunk.js",
     "static/media/cinemawebapplication.netlify.app_ (1).png": "/Sahil-Portfolio/static/media/cinemawebapplication.netlify.app_ (1).573f02f01b2f7c70232a.png",
     "static/media/proyecto-app-18-com.png": "/Sahil-Portfolio/static/media/proyecto-app-18-com.c8c3f0b9e506541c493f.png",
@@ -78,11 +78,11 @@
     "static/media/proyecto-app-2.jpg": "/Sahil-Portfolio/static/media/proyecto-app-2.5d8ddf1cc2638b419fd5.jpg",
     "index.html": "/Sahil-Portfolio/index.html",
     "main.93190fa9.css.map": "/Sahil-Portfolio/static/css/main.93190fa9.css.map",
-    "main.cd276b7f.js.map": "/Sahil-Portfolio/static/js/main.cd276b7f.js.map",
+    "main.589f0ae7.js.map": "/Sahil-Portfolio/static/js/main.589f0ae7.js.map",
     "453.3bc21d00.chunk.js.map": "/Sahil-Portfolio/static/js/453.3bc21d00.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93190fa9.css",
-    "static/js/main.cd276b7f.js"
+    "static/js/main.589f0ae7.js"
   ]
 }
