@@ -232,7 +232,7 @@ function ProjectApp() {
             >
                 <div className="content-modal">
                     <div className="pw-content">
-                        <div className="eins-modal-preview"><img src={proyectsImgApp(`./proyecto-app03.png`)} alt="" /></div>
+                        <div className="eins-modal-preview"><img src={proyectsImgApp(`./ecomzyfull.png`)} alt="" /></div>
                         <div className="eins-modal-text">
                             <p>
                             ECOMZY eCommerce based WebApplication
@@ -242,7 +242,7 @@ function ProjectApp() {
                                 
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://peppy-lolly-46fea3.netlify.app" target="_blank">https://peppy-lolly-46fea3.netlify.app</a>
+                                <span>Link:</span> <a href="https://peppy-lolly-46fea3.netlify.app" target="_blank">https:Ecomzy.co</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -353,7 +353,7 @@ function ProjectApp() {
             >
                 <div className="content-modal">
                     <div className="pw-content">
-                        <div className="eins-modal-preview"><img src={proyectsImgApp(`./proyecto-app.png`)} alt="" /></div>
+                        <div className="eins-modal-preview"><img src={proyectsImgApp(`./dashboardfull.png`)} alt="" /></div>
                         <div className="eins-modal-text">
                             <p>
                               Real Live Dashboard App
@@ -363,7 +363,7 @@ function ProjectApp() {
                                 
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://reallivedashboard.netlify.app" target="_blank">https://reallivedashboard.netlify.app</a>
+                                <span>Link:</span> <a href="https://reallivedashboard.netlify.app" target="_blank">https:LiveDashboard.co</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>

@@ -27,7 +27,7 @@ const Content = () => (
                 <p data-aos="fade-up" data-aos-delay="1000">
                     <FormattedMessage
                         id='rol'
-                        defaultMessage='Full-stack | MERN stack developer'
+                        defaultMessage='Full-Stack developer'
                     />
                 </p>
 

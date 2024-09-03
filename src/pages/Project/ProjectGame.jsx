@@ -63,7 +63,7 @@ const ProjectGame = () => {
                 <section className="projects__grid games">
                     <div className="projects__item">
                         <a onClick={() => cambiarEstadoModal4(!estadoModal4)}>
-                            <img src={proyectsImg(`./proyecto-10.png`)} alt="" className="projects__img" />
+                            <img src={proyectsImg(`./proyecto-11.png`)} alt="" className="projects__img" />
                         </a>
                     </div>
 
@@ -98,16 +98,16 @@ const ProjectGame = () => {
             >
                 <div className="content-modal">
                     <div className="pw-content">
-                        <div className="eins-modal-preview"><img src={proyectsImg(`./proyecto-10.png`)} alt="" /></div>
+                        <div className="eins-modal-preview"><img src={proyectsImg(`./gfgfull.png`)} alt="" /></div>
                         <div className="eins-modal-text">
                             <p>
-                            Counter Game based web-Application
+                              Random Meme Generation application
                             </p>
                             <p>
-                            A web application where players compete by counting numbers under specific rules, with the goal of reaching a target first.
+                            A web application that generates and displays random memes at the click of a button.
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://itsahil1.github.io/counterapp/" target="_blank">https://itsahil1.github.io/counterapp/</a>
+                                <span>Link:</span> <a href="https://itsahil1.github.io/memGfg/" target="_blank">https:RandomGifs.co</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -149,7 +149,7 @@ const ProjectGame = () => {
                             </p>
 
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://itsahil1.github.io/TicTacToe/" target="_blank">https://itsahil1.github.io/TicTacToe/</a>
+                                <span>Link:</span> <a href="https://itsahil1.github.io/TicTacToe/" target="_blank">https:TicTacToe.co</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>
@@ -162,9 +162,7 @@ const ProjectGame = () => {
                                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
                                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
                                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" />
-          
+                                    
           
                                 </div>
                             </div>

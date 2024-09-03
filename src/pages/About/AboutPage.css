@@ -247,11 +247,11 @@ section .row .columns .skill img:hover {
     width: 60%;
     height: 60%;
     object-fit: cover;
-    object-position: right;
+    object-position: center;
     border-radius: 50%;
     /* box-shadow: 10px 10px 20px;
     shadow- */
-    box-shadow: 8px 5px 20px rgb(255, 179, 203);
+    box-shadow: 8px 5px 20px rgba(225, 229, 229, 0.703);
 }
 
 #circle{
@@ -278,6 +278,7 @@ section .row .columns .skill img:hover {
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 5rem;
 }
+
 
 .skills-img {
     display: block;

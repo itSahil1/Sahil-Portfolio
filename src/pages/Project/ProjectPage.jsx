@@ -166,14 +166,13 @@ const Project = () => {
       >
         <div className="content-modal">
           <div className="pw-content">
-            <div className="eins-modal-preview"><img src={proyectsImg(`./proyecto-app-18-com.png`)} alt="" /></div>
+            <div className="eins-modal-preview"><img src={proyectsImg(`./cinemawebapplication.netlify.app_ (1).png`)} alt="" /></div>
             <div className="eins-modal-text">
               <p>
-                  Movies Streaming
+                 Cinema Movies Streaming
               </p>
               <p>
-                Developed a movie streaming web application using HTML, CSS, Bootstrap, JavaScript and React.js. Integrated various npm packages
-                and APIs to deliver a seamless user experience with features like real-time search, dynamic content loading, and responsive design.
+              A dynamic web application that allows users to stream cinema movies live, providing a seamless and immersive viewing experience with real-time playback and a diverse selection of films. Perfect for movie enthusiasts looking to enjoy the latest releases from the comfort of their own homes.
                 
               </p>
               <p>
@@ -181,7 +180,7 @@ const Project = () => {
                 
               </p>
               <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://deepak-pandey1.github.io/Movies-Streaming/" target="_blank">https://movies-streaming.com</a>
+                <span>Link:</span> <a href="https://cinemawebapplication.netlify.app" target="_blank">https://Cinema-Movies.com</a>
               </div>
               <div className="eins-modal-text-3">
                 <span>
@@ -425,21 +424,20 @@ const Project = () => {
       >
         <div className="content-modal">
           <div className="pw-content">
-            <div className="eins-modal-preview"><img src={proyectsImg(`./proyecto-12-coms.png`)} alt="" /></div>
+            <div className="eins-modal-preview"><img src={proyectsImg(`./razorpayfull.png`)} alt="" /></div>
             <div className="eins-modal-text">
               <p>
                 Razorpay
               </p>
               <p>
-                Successfully developed a Razorpay clone using HTML, CSS, JavaScript and Tailwind, demonstrating proficiency in front-end
-                development.
+              A fully functional Razorpay clone website that replicates the features of the popular payment gateway, offering secure online payment processing, seamless transaction management, and a user-friendly interface for businesses and customers alike. Designed to provide a comprehensive solution for integrating payment systems into web applications.
               </p>
               <p>
                 This project showcased my ability to create responsive and interactive web applications while applying industry-standard
                 technologies.
               </p>
               <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://deepak-pandey1.github.io/Razorpay-Clone/" target="_blank">https://razorpayc.com</a>
+                <span>Link:</span> <a href="https://transcendent-malasada-a5a12a.netlify.app" target="_blank">https://razorpay.com</a>
               </div>
               <div className="eins-modal-text-3">
                 <span>
@@ -451,8 +449,8 @@ const Project = () => {
                 <div className="eins-modal-tec">
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
+                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
                 </div>
               </div>
             </div>
